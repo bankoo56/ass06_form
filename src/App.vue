@@ -13,7 +13,7 @@
         <div class="input-group">
           <span class="input-group-text">ชื่อ-นามสกุล
             <div class="form-check">
-              <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="นาย" checked v-model="sex">
+              <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="นาย" v-model="sex">
               <label class="form-check-label" for="exampleRadios1">
                 นาย
               </label>
