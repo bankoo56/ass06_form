@@ -14,19 +14,19 @@
           <span class="input-group-text">ชื่อ-นามสกุล
             <div class="form-check">
               <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="นาย" checked v-model="sex">
-              <label class="form-check-label" for="">
+              <label class="form-check-label" for="exampleRadios1">
                 นาย
               </label>
             </div>
             <div class="form-check">
               <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="นาง" v-model="sex">
-              <label class="form-check-label" for="">
+              <label class="form-check-label" for="exampleRadios2">
                 นาง
               </label>
             </div>
             <div class="form-check">
               <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="นางสาว" v-model="sex">
-              <label class="form-check-label" for="">
+              <label class="form-check-label" for="exampleRadios2">
                 นางสาว
               </label>
             </div>
