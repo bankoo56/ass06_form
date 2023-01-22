@@ -86,7 +86,6 @@
           >
         </div>
       </div>
-<<<<<<< HEAD
       <br />
       <hr size="8" width="100%" />
       <br />
@@ -94,25 +93,6 @@
       <div style="display: flex; gap: 15px; justify-content: end">
         <div class="input-group" style="display: flex; flex-wrap: nowrap">
           <span class="input-group-text">มีความประสงค์จะขอโอนย้ายไป</span>
-=======
-    <br>
-    <hr size="8" width="100%">
-    <br>
-    
-    <div style="display: flex; gap: 15px; justify-content: end;">
-        <div class="input-group"  style=" display: flex; flex-wrap: nowrap;" >
-          <span class="input-group-text">มีความประสงค์จะขอโอนย้ายไป คณะ</span><select name="wantFac1" id=""  v-model="stuWant1" required>
-          <option value=""> กรุณาเลือกคณะ</option>
-          <option value=""> คณะผลิตกรรมการเกษตร</option>
-          <option value="">คณะวิศวกรรม</option>
-          <option value="">คณะวิทยาศาสตร์</option>
-          <option value="">วิทยาลัยบริหารศาสตร์</option>
-          <option value="">คณะบริหารธุรกิจ</option>
-          <option value="">คณะพัฒนาการท่องเที่ยว</option>
-          <option value="">คณะเศรษฐศาสตร์</option> 
-          </select>
-        
->>>>>>> f19fe3315db9cec7a0881517d518b6ce59efe571
           <span class="input-group-text">สาขา</span>
           <input
             type="text"
