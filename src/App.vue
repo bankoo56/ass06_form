@@ -47,7 +47,7 @@
     
     <div style="display: flex; gap: 15px; justify-content: end;">
         <div class="input-group"  style=" display: flex; flex-wrap: nowrap;" >
-          <span class="input-group-text">มีความประสงค์จะขอโอนย้ายไป คณะ</span><select name="wantFac1" id=""  v-model="stuWant1">
+          <span class="input-group-text">มีความประสงค์จะขอโอนย้ายไป คณะ</span><select name="wantFac1" id=""  v-model="stuWant1" required>
           <option value=""> กรุณาเลือกคณะ</option>
           <option value=""> คณะผลิตกรรมการเกษตร</option>
           <option value="">คณะวิศวกรรม</option>
